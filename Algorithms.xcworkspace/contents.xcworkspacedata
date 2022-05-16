@@ -5,6 +5,9 @@
       location = "group:Problems"
       name = "Problems">
       <FileRef
+         location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/876-MiddleOfTheLinkedList.playground">
+      </FileRef>
+      <FileRef
          location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/383-RansomNote.playground">
       </FileRef>
       <FileRef
