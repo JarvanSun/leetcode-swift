@@ -26,10 +26,7 @@ class Solution {
 }
 
 // Testing
-let sol = Solution()
+let solution = Solution()
 
-//assert(sol.canConstruct("bdc", "abcd") == true, "test failed")
-//assert(sol.canConstruct("b", "abcd") == true, "test failed")
-//assert(sol.canConstruct("be", "abcd") == false, "test failed")
-assert(sol.canConstruct("fihjjjjei", "hjibagacbhadfaefdjaeaebgi") == false, "test failed")
+assert(solution.canConstruct("fihjjjjei", "hjibagacbhadfaefdjaeaebgi") == false, "test failed")
 

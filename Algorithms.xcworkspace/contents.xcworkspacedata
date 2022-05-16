@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:Leatcode-383-RansomNote.playground">
-   </FileRef>
-   <FileRef
-      location = "group:leetcode-13-roman-to-integer.playground">
-   </FileRef>
-   <FileRef
-      location = "group:leetcode-234-PalindromeLinkedList.playground">
-   </FileRef>
+   <Group
+      location = "group:Problems"
+      name = "Problems">
+      <FileRef
+         location = "group:Leatcode-383-RansomNote.playground">
+      </FileRef>
+      <FileRef
+         location = "group:leetcode-234-PalindromeLinkedList.playground">
+      </FileRef>
+      <FileRef
+         location = "group:leetcode-13-roman-to-integer.playground">
+      </FileRef>
+   </Group>
 </Workspace>
