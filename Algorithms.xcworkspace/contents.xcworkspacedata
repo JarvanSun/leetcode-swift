@@ -5,13 +5,16 @@
       location = "group:Problems"
       name = "Problems">
       <FileRef
-         location = "group:Leatcode-383-RansomNote.playground">
+         location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/383-RansomNote.playground">
       </FileRef>
       <FileRef
-         location = "group:leetcode-234-PalindromeLinkedList.playground">
+         location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/234-PalindromeLinkedList.playground">
       </FileRef>
       <FileRef
-         location = "group:leetcode-13-roman-to-integer.playground">
+         location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/13-RomanToInteger.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/jarvansun/Projects/leetcode-swift/Problems/412-FizzBuzz.playground">
       </FileRef>
    </Group>
 </Workspace>
